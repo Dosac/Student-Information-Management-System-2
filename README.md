@@ -1,4 +1,4 @@
-# -Management-system
+# Student Information Management System
 C语言程序设计 - 源代码
 
 funtion.h   通用函数源码
