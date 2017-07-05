@@ -5,4 +5,4 @@ funtion.h   通用函数源码
 
 main.c      主程序源码
 
-学生信息管理系统.exe    可执行程序
+System.exe    可执行程序
